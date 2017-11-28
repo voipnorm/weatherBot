@@ -9,6 +9,7 @@ access.log
 #test folder
 Tests/
 
+
 # Logs
 logs
 *.log
